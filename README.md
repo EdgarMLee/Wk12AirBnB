@@ -1,7 +1,7 @@
 # `AirBnB Clone`
 
 ## Database Schema Design
-
+https://github.com/EdgarMLee/Wk12AirBnB/wiki/Database-Schema
 ## API Documentation
 
 ## FEATURE 0: USER AUTHORIZATION
